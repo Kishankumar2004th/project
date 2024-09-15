@@ -1,2 +1,2 @@
 # NEW PROJECT
-This project is created by Kishan Kumar.
+This project is created by Kishan Kumar/Aryan Kumar.
